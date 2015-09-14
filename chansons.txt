@@ -1,0 +1,4 @@
+cadet.txt : Cadet Rouselle
+lune.txt : Au clair de la lune
+frere.txt : Frere Jacques
+roi.txt : Le bon roi Dagobert
